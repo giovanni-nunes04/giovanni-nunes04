@@ -40,7 +40,7 @@ Sou **Assistente de Segurança da Informação** com foco em **governança e pr�
 - 🔐 Cursos livres em **redes**, **segurança da informação**, **Linux** e **desenvolvimento de software**  
 
 <details>
-  <summary><b>Trilhas recentes</b> (clique para ver)</summary>
+  <summary><b>Trilhas recentes</b></summary>
 
 - ISO 27001/27701 e governança
 - Power BI para métricas de awareness e phishing
@@ -93,42 +93,11 @@ ISO 27001/27701 • Controles & Evidências • Pentest/Pentest-light • Harden
 Power BI • DAX • Power Query (M) • Storytelling de dados
 ```
 
-> *Brinco nessa caixa de ferramentas, mas escolho o essencial para cada entrega.*
-
----
-
-## 🧠 Como trabalho
-- **Documentação viva**: README, guias de setup, checklists e evidências rápidas.  
-- **Métricas visíveis**: cards simples de *Falha%*, *CTR*, *Reporte* com metas claras.  
-- **Segurança desde o início**: mínimo necessário, risco sob controle, sem travar o time.  
-- **Automação pragmática**: scripts curtos, Docker quando agrega, logs legíveis.
-
-> Se é difícil de reproduzir, **ainda não está pronto**. Se é fácil de explicar, **está no caminho certo**.
-
 ---
 
 ## 📫 Contato
-<!-- Substitua os placeholders abaixo pelas suas informações reais -->
-- ✉️ **Email**: seu-email@exemplo.com  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/SEU-PERFIL  
-- 🧑‍💻 **GitHub**: https://github.com/SEU-USUARIO  
-
----
-
-## 🧩 Extras nerds
-- **Ambiente**: Fedora Linux + ThinkPad T490  
-- **Interesses**: redes, governança de SI, dashboards de segurança, microserviços, boas práticas de engenharia  
-- **Atalhos favoritos**: `alias`, `docker compose up -d`, `git log --oneline --graph`
-
----
-
-### ✨ Badges & métricas (opcional)
-Você pode reforçar com imagens de serviços (substitua pelo seu usuário):
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true)
-```
+- 💼 **LinkedIn**: www.linkedin.com/in/giovanni-nunes04
+- 🧑‍💻 **GitHub**: https://github.com/giovanni-nunes04 
 
 ---
 
@@ -136,9 +105,3 @@ Você pode reforçar com imagens de serviços (substitua pelo seu usuário):
 - [↑ Voltar ao topo](#olá-mundo-)
 
 ---
-
-#### Notas
-- **Sem bullets** onde for mais descritivo? Use **parágrafos** (como em “Sobre mim” e “Trabalho”).  
-- **Com bullets** onde o formato lista melhora a leitura (como “Stack & Ferramentas”).  
-- Use **<details>** para conteúdo expansível e deixar o README mais limpo.  
-- Mantenha o README **curto**, visual e **atualizado** (menos é mais).  

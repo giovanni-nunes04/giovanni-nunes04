@@ -23,27 +23,25 @@
 ---
 
 ## 🙋 Sobre mim
-Sou **Assistente de Segurança da Informação** com foco em **governança e prática**, apaixonado por **Linux**, **redes**, **desenvolvimento web** e por transformar ideias em entregas úteis. Gosto de documentação bem feita, automações simples e dashboards que contam histórias.
-
-> Hoje meu objetivo é **conectar segurança e negócio**, sem travar a inovação.
+Sou **Assistente de Segurança da Informação** com foco em **governança e prática**, apaixonado por **Linux**, **redes** e **tecnologias novas e antigas**.
 
 ---
 
 ## 💼 Trabalho
-- Atualmente, atuo como **Assistente de Segurança da Informação** em uma empresa de benefícios, ajudando com **processos, análises de risco e melhorias de governança**.
+- Atualmente, atuo como **Assistente de Segurança da Informação** em uma empresa de benefícios, ajudando com **processos, análises de risco e gestão de acesso**.
 
 ---
 
 ## 📚 Estudos
 - 🎓 **Fatec** — Desenvolvimento de Software Multiplataforma  
-- 🧪 **UFABC** — Ciência da Computação & Biotecnologia *(interrompidos, mas com muito aprendizado)*  
+- 🧪 **UFABC** — Ciência da Computação & Biotecnologia *(interrompidos, mas com aprendizado)*  
 - 🔐 Cursos livres em **redes**, **segurança da informação**, **Linux** e **desenvolvimento de software**  
 
 <details>
   <summary><b>Trilhas recentes</b></summary>
 
 - ISO 27001/27701 e governança
-- Power BI para métricas de awareness e phishing
+- Power BI para métricas
 - Docker e boas práticas de serviços web
 - Fundamentos de Java/Spring e integração com front-end
 </details>
@@ -61,39 +59,6 @@ Sou **Assistente de Segurança da Informação** com foco em **governança e pr�
 
 ---
 
-## 🧰 Stack & Ferramentas
-
-**Linguagens / Runtime**
-```
-Java • JavaScript • SQL • Bash
-```
-
-**Frameworks & Bibliotecas**
-```
-Spring Boot • Thymeleaf • Tailwind • JWT
-```
-
-**Banco & Dados**
-```
-MongoDB • Modelagem NoSQL • Seeds • Índices
-```
-
-**DevOps & Plataforma**
-```
-Docker • Docker Compose • GitHub Actions (CI) • Git
-```
-
-**Segurança**
-```
-ISO 27001/27701 • Controles & Evidências • Pentest/Pentest-light • Hardening básico
-```
-
-**Data & BI**
-```
-Power BI • DAX • Power Query (M) • Storytelling de dados
-```
-
----
 
 ## 📫 Contato
 - 💼 **LinkedIn**: www.linkedin.com/in/giovanni-nunes04
